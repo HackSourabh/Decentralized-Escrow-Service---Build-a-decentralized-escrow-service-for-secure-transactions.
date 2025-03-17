@@ -59,3 +59,8 @@ The Decentralized Escrow Service has significant potential for expansion and enh
 - **Analytics Dashboard**: Provide insights on transaction patterns, success rates, and dispute frequency
 - **KYC/AML Features**: Optional identity verification for regulatory compliance in certain jurisdictions
 - **Smart Contract Auditing**: Continuous security enhancements and third-party audits
+
+- ## Contract Address
+- 0x7c22c0c9b4f0129c645c352ec6eab5a9a6dc7563
+- ![image](https://github.com/user-attachments/assets/997f116b-b8b0-4711-957a-51756ca89857)
+
